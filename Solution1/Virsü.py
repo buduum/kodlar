@@ -1,0 +1,6 @@
+print ("selam!")
+print ("kod yazmak istiyom ama aklıma fikir gelmiyo :(")
+print ("sen bir şey yaz o da bana görünsün")
+print ("bende onu oyuna ekleyem!")
+secim = input ("ne ekleyem?")
+print (f"seçildi: {secim}")
